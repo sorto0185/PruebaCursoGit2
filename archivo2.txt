@@ -1,2 +1,5 @@
 es prueba de agregar al archvo
 es cambio 
+nueva programacion
+commit
+areglando de neuvo
